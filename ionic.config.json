@@ -1,0 +1,7 @@
+{
+  "name": "uuid",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
